@@ -1,11 +1,13 @@
-import Navbar from "./component/navbar/navbar.component";
+import Exo3 from "./component/exo/Exo3.component";
 
 function App(){
   return(
     <>
       {/* <H1 />
       <Button /> */}
-      <Navbar />
+      {/* <Navbar />
+      <Base /> */}
+      <Exo3 />
     </>
   )
 }

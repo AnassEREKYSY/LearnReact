@@ -1,5 +1,5 @@
 function Exo3() {
-    const formation=[{nom:"JS",duree:5},{nom:"Angular",duree:2},{nom:"React",duree:15}]
+    const formation=[{nom:"JS",duree:5},{nom:"Angular",duree:2},{nom:"React",duree:15}];
     return (  
         <>
             <ul>
